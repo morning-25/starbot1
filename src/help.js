@@ -201,7 +201,7 @@ ____██_____██
 ║🔥 *${prefix}onich*
 ║🔥 *${prefix}beat1*
 ║🔥 *${prefix}glub*
-║🔥 *${prefix}causs*
+║🔥 *${prefix}morning*
 ║
 ╠══🔥〘 OUTROS /2 〙🔥══
 ║
@@ -222,7 +222,7 @@ ____██_____██
 ║🔥 *bv*
 ║🔥 *canta ai bot*
 ║🔥 *grita*
-║🔥 *causs*
+║🔥 *morning*
 ║🔥 *gemidao*
 ║🔥 *musica*
 ║

@@ -9,7 +9,7 @@
 ## Clone esse projeto
 
 ```bash
-> git clone https://github.com/admcauss-alt/Caussx
+> git clone https://github.com/morning-25/MORNING.git
 ```
 
 ## Instale o BOT:
@@ -20,8 +20,8 @@
 > pkg install ffmpeg
 > pkg install wget
 > pkg install nodejs
-> git clone https://github.com/morning-25/starbot1.git
-> cd starbot1
+> git clone https://github.com/morning-25/MORNING.git
+> cd MORNING
 > bash install.sh
 ```
 

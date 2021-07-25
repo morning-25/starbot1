@@ -28,7 +28,7 @@ const help1 = (prefix) => {
 ┣⊱❥ *firetext*
 
 ════════════════════
-*CAUSS* 🤗
+*MORNING STAR* 🤗
 *Digite dono para mais info*
 ════════════════════`
 }
